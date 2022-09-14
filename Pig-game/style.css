@@ -169,3 +169,15 @@ main {
 .hidden {
   display: none;
 }
+.footer {
+  position: absolute;
+  bottom: 20px;
+  font-size: 1.4rem;
+  color: #fff;
+}
+.footer a {
+  color: #fff;
+}
+.link:hover {
+  cursor: pointer;
+}
